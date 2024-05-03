@@ -1,0 +1,11 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¼¯ù­úÿÿÿÿ8òäˆÉå1
+A
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ8åˆÉå1
+G
+java:S1197"*Move the array designators [] to the type.(ÖÅ‘‡8åˆÉå1
+G
+java:S1197"*Move the array designators [] to the type.(ï€¬ó8åˆÉå1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®àêùÿÿÿÿ8åˆÉå1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ8ï¶íÛå1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(øñŞ¯ûÿÿÿÿ8˜ÂîÛå1
