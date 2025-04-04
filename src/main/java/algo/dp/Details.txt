@@ -1,0 +1,13 @@
+Dp Identification
+------------------
+    1. Choice
+    2. Optimal Solution
+=> It's not applicable for one function call
+=> If you call multiple function it means might be possible we will call same function which all ready called and soled in other recursion call.
+=>  Follow steps
+        Recursion call ---->  Momoization ---> Tob Down (Matrix Implementation)
+=> Knapsack type
+    - Fractional => We can divide item and add in back
+    - 0/1 => We cannot break  item for add in back
+    - Unbounded => we can add same item multiple time
+ =>

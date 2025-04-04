@@ -5,5 +5,7 @@ Important
 108 => NextGreaterElementOnTheRight
 113 => LargestAreaHistogram
 115 => SlidingWindowMaximum
+117-124 =>InfixConversions,InfixEvaluation,PostfixEvaluationsAndConversions, PrefixEvaluationsAndConversion
+
 
 
